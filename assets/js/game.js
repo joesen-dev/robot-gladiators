@@ -4,7 +4,7 @@ var playerAttack = 10;
 var playerMoney = 10;
 
 var enemyNames = ["Roborto", "Amy Andriod", "Robo Trumble"];
-var enemyHealth = 10;
+var enemyHealth = 50;
 var enemyAttack = 12;
 
 // fight function (now with parameter for enemy's name)
